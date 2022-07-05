@@ -9,6 +9,7 @@ class Kernel extends ConsoleKernel
 {
     /**
      * The Artisan commands provided by your application.git
+
      * @var array
      */
     protected $commands = [
