@@ -8,7 +8,8 @@ use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 class Kernel extends ConsoleKernel
 {
     /**
-     * The Artisan commands provided by your application.git
+     * Artisan commands provided by your application.git
+
      * @var array
      */
     protected $commands = [
